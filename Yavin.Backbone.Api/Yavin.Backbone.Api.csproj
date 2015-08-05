@@ -110,10 +110,6 @@
       <Project>{1b5f0ce6-b301-4deb-a7a0-2ea126ce235d}</Project>
       <Name>Yavin.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Yavin.Meta\Yavin.Meta.csproj">
-      <Project>{94754131-fb2c-400c-a884-0f774949395b}</Project>
-      <Name>Yavin.Meta</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Yavin.Model\Yavin.Model.csproj">
       <Project>{9f95bb33-59cc-4541-aac5-462854abcd9e}</Project>
       <Name>Yavin.Model</Name>

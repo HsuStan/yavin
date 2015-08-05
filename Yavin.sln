@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yavin.Screen.Player", "Yavi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yavin.Screen.Command", "Yavin.Screen.Command\Yavin.Screen.Command.csproj", "{E63F4E7A-260D-4698-BDA1-0D5F58CEE00F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yavin.Meta", "Yavin.Meta\Yavin.Meta.csproj", "{94754131-FB2C-400C-A884-0F774949395B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yavin.Core", "Yavin.Core\Yavin.Core.csproj", "{1B5F0CE6-B301-4DEB-A7A0-2EA126CE235D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yavin.ORM", "Yavin.ORM\Yavin.ORM.csproj", "{261D70F9-48A5-4A3A-8F8B-6AFDF582B0EB}"
@@ -18,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yavin.Backbone", "Yavin.Backbone\Yavin.Backbone.csproj", "{0216CDC1-93B2-4FE0-8A56-77C690DC6EA7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yavin.Backbone.Api", "Yavin.Backbone.Api\Yavin.Backbone.Api.csproj", "{AAFEBD3E-79F6-4451-9029-80D346C2BD41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yavin.Meta", "Yavin.Meta\Yavin.Meta.csproj", "{94754131-FB2C-400C-A884-0F774949395B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,10 +37,6 @@ Global
 		{E63F4E7A-260D-4698-BDA1-0D5F58CEE00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E63F4E7A-260D-4698-BDA1-0D5F58CEE00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E63F4E7A-260D-4698-BDA1-0D5F58CEE00F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{94754131-FB2C-400C-A884-0F774949395B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{94754131-FB2C-400C-A884-0F774949395B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{94754131-FB2C-400C-A884-0F774949395B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{94754131-FB2C-400C-A884-0F774949395B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1B5F0CE6-B301-4DEB-A7A0-2EA126CE235D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1B5F0CE6-B301-4DEB-A7A0-2EA126CE235D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B5F0CE6-B301-4DEB-A7A0-2EA126CE235D}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -57,6 +53,10 @@ Global
 		{AAFEBD3E-79F6-4451-9029-80D346C2BD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAFEBD3E-79F6-4451-9029-80D346C2BD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAFEBD3E-79F6-4451-9029-80D346C2BD41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94754131-FB2C-400C-A884-0F774949395B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94754131-FB2C-400C-A884-0F774949395B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94754131-FB2C-400C-A884-0F774949395B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94754131-FB2C-400C-A884-0F774949395B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
