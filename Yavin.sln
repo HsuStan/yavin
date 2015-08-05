@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yavin.Model", "Yavin.Model\Yavin.Model.csproj", "{9F95BB33-59CC-4541-AAC5-462854ABCD9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yavin.Screen.Player", "Yavin.Screen.Player\Yavin.Screen.Player.csproj", "{D71BF4AA-94BC-4D68-93A5-A117C8BECBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yavin.Screen.Command", "Yavin.Screen.Command\Yavin.Screen.Command.csproj", "{E63F4E7A-260D-4698-BDA1-0D5F58CEE00F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yavin.Meta", "Yavin.Meta\Yavin.Meta.csproj", "{94754131-FB2C-400C-A884-0F774949395B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yavin.Core", "Yavin.Core\Yavin.Core.csproj", "{1B5F0CE6-B301-4DEB-A7A0-2EA126CE235D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yavin.ORM", "Yavin.ORM\Yavin.ORM.csproj", "{261D70F9-48A5-4A3A-8F8B-6AFDF582B0EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yavin.Backbone", "Yavin.Backbone\Yavin.Backbone.csproj", "{0216CDC1-93B2-4FE0-8A56-77C690DC6EA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yavin.Backbone.Api", "Yavin.Backbone.Api\Yavin.Backbone.Api.csproj", "{AAFEBD3E-79F6-4451-9029-80D346C2BD41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F95BB33-59CC-4541-AAC5-462854ABCD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F95BB33-59CC-4541-AAC5-462854ABCD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F95BB33-59CC-4541-AAC5-462854ABCD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F95BB33-59CC-4541-AAC5-462854ABCD9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D71BF4AA-94BC-4D68-93A5-A117C8BECBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D71BF4AA-94BC-4D68-93A5-A117C8BECBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D71BF4AA-94BC-4D68-93A5-A117C8BECBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D71BF4AA-94BC-4D68-93A5-A117C8BECBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E63F4E7A-260D-4698-BDA1-0D5F58CEE00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63F4E7A-260D-4698-BDA1-0D5F58CEE00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63F4E7A-260D-4698-BDA1-0D5F58CEE00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63F4E7A-260D-4698-BDA1-0D5F58CEE00F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94754131-FB2C-400C-A884-0F774949395B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94754131-FB2C-400C-A884-0F774949395B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94754131-FB2C-400C-A884-0F774949395B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94754131-FB2C-400C-A884-0F774949395B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B5F0CE6-B301-4DEB-A7A0-2EA126CE235D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5F0CE6-B301-4DEB-A7A0-2EA126CE235D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5F0CE6-B301-4DEB-A7A0-2EA126CE235D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5F0CE6-B301-4DEB-A7A0-2EA126CE235D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{261D70F9-48A5-4A3A-8F8B-6AFDF582B0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261D70F9-48A5-4A3A-8F8B-6AFDF582B0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261D70F9-48A5-4A3A-8F8B-6AFDF582B0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261D70F9-48A5-4A3A-8F8B-6AFDF582B0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0216CDC1-93B2-4FE0-8A56-77C690DC6EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0216CDC1-93B2-4FE0-8A56-77C690DC6EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0216CDC1-93B2-4FE0-8A56-77C690DC6EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0216CDC1-93B2-4FE0-8A56-77C690DC6EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAFEBD3E-79F6-4451-9029-80D346C2BD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFEBD3E-79F6-4451-9029-80D346C2BD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFEBD3E-79F6-4451-9029-80D346C2BD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFEBD3E-79F6-4451-9029-80D346C2BD41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
